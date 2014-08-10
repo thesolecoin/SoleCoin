@@ -1,0 +1,4 @@
+SoleCoin
+========
+
+The SoleCoin Resources
