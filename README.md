@@ -10,6 +10,7 @@ This wallet supports the staking=0 option in the SoleCoin.conf file to disable t
 
 
 RPC PORT: 20731
+
 P2P PORT: 20631
 
 http://solecoin.org/
