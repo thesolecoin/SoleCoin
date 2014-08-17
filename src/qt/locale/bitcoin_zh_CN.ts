@@ -584,6 +584,11 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+2"/>
+        <source>Not minting.</source>
+        <translation>未进行权益增值，因为原因未知，请检查配置文件</translation>
+    </message>
+    <message>
+        <location line="+2"/>
         <source>Not minting because you don&apos;t have mature coins.</source>
         <translation>未进行权益增值，因为钱包中没有成熟的SoleCoin</translation>
     </message>
